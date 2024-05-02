@@ -1,4 +1,4 @@
-# 0995_9103_tut5 Group E
+# 0995_9103_tut5 Group E_Week 8
 
  # Part 1: Imaging Technique Inspiration
 
@@ -79,3 +79,5 @@ In the first part of the artwork, I think randomness is a very important factor.
 - Keep the color value within a reasonable range by using the RGB value and constrain number, and I will choose the appropriate color to match in the next big assignment.
 
 - The stroke function sets the transparency of the color, which helps the lines remain beautiful when stacked.
+
+
