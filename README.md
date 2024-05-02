@@ -30,14 +30,14 @@
 
 
 ## P1: Inspiration explanation
-```
+
 I love the artist Manoloide's digital art. His artworks are characterized by complex geometric figures and changing colors in ever-changing natural dynamics. This fascinates me deeply.
 
 Three of his works have given me great inspiration.
 These artworks have a good visual effect. By using the natural dynamic changes of the line as the core, we create a work that is casual but rich in visual art. The colorful lines overlap and weave together artfully.
 
 I will incorporate these visual inspirations and the use of lines that I observe into my project and animate the scene. I think this will definitely make our project more visually rich.
-```
+
 > # Part 2: Coding Technique Exploration
 
  ## Actual coding technique images and code links
@@ -65,9 +65,9 @@ I will incorporate these visual inspirations and the use of lines that I observe
 
 ## P2: Coding technique interpretation
 
-```
+
 In the first part of the artwork, I think randomness is a very important factor. I will apply this part of the technique to the circular pattern in the artwork to increase the visual effect.
-```
+
 
 - Random() function displays random coordinates and color values, adding variety and randomness.
 
